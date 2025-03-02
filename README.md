@@ -17,6 +17,7 @@ Bienvenido a la documentación de Ansible. Este repositorio contiene una guía d
 9. [Variables](./doc/variables.md)
 10. [Otros módulos](./doc/otros_modulos.md)
 11. [Roles](./doc/roles.md)
+12. [Modulos](./doc/todos_modulos.md)
 
 ## Referencias
 
