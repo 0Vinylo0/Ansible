@@ -4,7 +4,7 @@ Bienvenido a la documentación de Ansible. Este repositorio contiene una guía d
 
 ## Contenido
 
-<img src="/img/pngegg.png" alt="GIF" width="200" height="175" align="right">
+<img src="/img/pngegg.png" alt="GIF" width="300" height="300" align="right">
 
 1. [Instalación](./doc/instalacion.md)
 2. [Comandos ad-hoc](./doc/comandos_ad_hoc.md)
