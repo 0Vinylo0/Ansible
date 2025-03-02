@@ -67,6 +67,3 @@ Puedes configurar una tarea en VS Code para ejecutar Ansible con un atajo de tec
    }
    ```
 3. Ahora puedes ejecutar `Ctrl + Shift + B` para correr el Playbook directamente.
-
-## Conclusión
-VS Code, junto con las extensiones adecuadas, es una excelente herramienta para trabajar con Ansible. La configuración adecuada de YAML y la integración con la terminal mejorarán tu flujo de trabajo y productividad.
