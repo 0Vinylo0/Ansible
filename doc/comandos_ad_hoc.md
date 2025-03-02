@@ -83,5 +83,3 @@ ansible all -m setup
 ```
 Muestra información detallada sobre los servidores remotos (RAM, CPU, interfaces de red, etc.).
 
-## Conclusión
-Los comandos ad-hoc son una forma rápida y efectiva de gestionar servidores sin necesidad de playbooks. Sin embargo, para tareas repetitivas o configuraciones complejas, se recomienda el uso de playbooks para mayor mantenibilidad y escalabilidad.
