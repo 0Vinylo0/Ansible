@@ -92,6 +92,3 @@ server {
 }
 ```
 
-## Conclusión
-
-Los roles permiten estructurar configuraciones de Ansible de manera modular y reutilizable. Usando roles, se pueden organizar tareas, variables, archivos y plantillas de forma eficiente, facilitando la gestión y escalabilidad de las automatizaciones.
