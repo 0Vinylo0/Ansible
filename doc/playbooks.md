@@ -114,7 +114,3 @@ Para organizar mejor los playbooks, se recomienda el uso de roles:
 ```
 
 Los roles permiten estructurar tareas, variables y archivos en un formato reutilizable.
-
-## Conclusión
-
-Los playbooks son la base de la automatización en Ansible. Al combinarlos con variables, handlers, loops y roles, se pueden crear configuraciones flexibles y escalables.
