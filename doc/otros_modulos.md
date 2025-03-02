@@ -122,6 +122,3 @@ Ansible permite administrar recursos en AWS, Azure y GCP.
   async: 300
   poll: 0
 ```
-
-## Conclusión
-Ansible cuenta con una gran cantidad de módulos que permiten automatizar diversas tareas. Conocer y utilizar estos módulos puede simplificar y optimizar la administración de servidores, bases de datos, redes y servicios en la nube.
